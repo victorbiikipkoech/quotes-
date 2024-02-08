@@ -1,4 +1,4 @@
-quotes_data = [
+quotes = [
             {"text": "The only way to do great work is to love what you do.", "author": "Steve Jobs"},
             {"text": "In the end, it's not the years in your life that count. It's the life in your years.", "author": "Abraham Lincoln"},
             {"text": "The greatest glory in living lies not in never falling, but in rising every time we fall.", "author": "Nelson Mandela"},
